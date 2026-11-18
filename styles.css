@@ -1,0 +1,2 @@
+@keyframes reload-button-spin { to { transform: rotate(360deg); } }
+.reload-button-spinning svg { animation: reload-button-spin .6s linear infinite; }
