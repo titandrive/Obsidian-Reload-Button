@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "A sidebar button that reloads Obsidian without saving.",
-  "author": "Jimothy",
+  "author": "TitanDrive",
+  "authorUrl": "https://github.com/titandrive/Obsidian-Reload-Button",
   "isDesktopOnly": false
 }
